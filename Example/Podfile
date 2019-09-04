@@ -1,0 +1,6 @@
+use_frameworks!
+target 'pushXXwen_Tests' do
+  pod 'pushXXwen', :path => '../'
+  
+  
+end
