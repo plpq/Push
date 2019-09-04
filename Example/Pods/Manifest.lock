@@ -1,0 +1,16 @@
+PODS:
+  - pushXXwen (0.1.0)
+
+DEPENDENCIES:
+  - pushXXwen (from `../`)
+
+EXTERNAL SOURCES:
+  pushXXwen:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  pushXXwen: abe63d9ad2d6d9f7a6eee0b3c1e548c2a5ad5660
+
+PODFILE CHECKSUM: c99160b4c65a9b3440640532c801059501ac9a12
+
+COCOAPODS: 1.8.0.beta.2

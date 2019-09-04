@@ -1,0 +1,6 @@
+framework module pushXXwen {
+  umbrella header "pushXXwen-umbrella.h"
+
+  export *
+  module * { export * }
+}
